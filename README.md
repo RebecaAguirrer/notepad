@@ -1,5 +1,5 @@
 ### notepad
 
-![](./images/image.png)
+![](./https://i.ibb.co/QrHs8X2/notepad.jpg)
 
 
